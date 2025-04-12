@@ -12,12 +12,15 @@
 /*Different types of datatypes in javaScript*/
 
 /* PRIMITIVE DATA TYPES */
-// number => 
-// bigInt =>
-// String => "any sequence of characters"
-// boolean => true/false
-// null => 
-// undefined => 
+/* number => It is a very big range of positive number which represent INT as well as floating values.
+   JS doesn’t have a direct Number.MIN_NEGATIVE_VALUE, but negative numbers can go all the way to:
+   -Number.MAX_VALUE // ≈ -1.7976931348623157e+308.
+*/
+// bigInt => For very large integers beyond the safe limit of regular numbers.
+// String => any sequence of characters in "" .
+// boolean => Represent true/false values.
+// null => Represents an intentional absence of value.
+// undefined => A variable declared but not assigned a value.
 // symbol =>
 
 
