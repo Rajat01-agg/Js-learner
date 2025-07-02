@@ -11,7 +11,7 @@ var a;
    in var there is a issue of block scope and functional scope.
 --defining variable without writing const, var, let is not a good programming practice.
 --console.log is used to print what is inside a double commas.
---console.table is also present ehich is used to print 
+--console.table is also present which is used to print 
    multiple variables in single run in a table format.
 --constant variable should be initiated when it is defined, 
    but var or let can be used to just define and not initiate.
